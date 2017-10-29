@@ -1,0 +1,5 @@
+PLain Kmeans and used the seed.csv to label data. accuracy ~47%
+
+Semi supervised with rbf kernel , 100 iterations, and gamma 0.2 and 0.01 ~45%
+
+with knn 100 iterations n neighbors 10 ~47 increased iterations ~48
